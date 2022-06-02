@@ -1,2 +1,2 @@
-# CSCI2100A
+# CSCI2100A Data Structures
 Assignment from the course using C.
